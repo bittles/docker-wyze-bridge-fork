@@ -42,7 +42,7 @@
         "NET_MODE": "ANY",
         "SNAPSHOT": "API",
         "MQTT_DTOPIC": "homeassistant",
-        "ENABLE_AUDIO": false
+        "ENABLE_AUDIO": true
     },
     "schema": {
         "WYZE_EMAIL": "email",
