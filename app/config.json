@@ -84,8 +84,9 @@
         "IGNORE_RES": "int?",
         "KEEP_BAD_FRAMES": "bool?",
         "FPS_FIX": "bool?",
-		"FORCE_FPS_{CAM_NAME}": "int?",
+		"FORCE_FPS_FRONT_PORCH_CAM": "int?",
 		"FORCE_FPS_BACK_DECK_CAM": "int?",
+		"FORCE_FPS_DRIVEWAY_CAM": "int?",
         "WEBRTC": "bool?",
         "CAM_OPTIONS": [
             {
