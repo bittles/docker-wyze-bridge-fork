@@ -53,7 +53,7 @@
         "IMG_TYPE": "list(jpg|png)?",
         "IMG_DIR": "str?",
         "ENABLE_AUDIO": "bool?",
-        "AUDIO_CODEC": "list(COPY|AAC|MP3)?",
+        "AUDIO_CODEC": "list(COPY|AAC|MP3|LIBOPUS)?",
         "AUDIO_FILTER": "str?",
         "LLHLS": "bool?",
         "RECORD_ALL": "bool?",
